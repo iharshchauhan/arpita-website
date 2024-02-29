@@ -17,8 +17,8 @@ export const ServicesSection = () => {
           <p className="mx-auto mt-5 max-w-3xl text-xl md:text-2xl">
             Delve into the philosophy of design through my eyes, where each creation is not just built, 
             but meticulously crafted with soulful purpose. 
-            In choosing to work with me, you're not just hiring a designer; 
-            you're embracing a unique vision that intertwines empathy with innovation, 
+            In choosing to work with me, you are not just hiring a designer; 
+            you are embracing a unique vision that intertwines empathy with innovation, 
             ensuring your product not only meets functional needs but also speaks to the heart of 
             the user experience.
           </p>
@@ -51,7 +51,7 @@ export const ServicesSection = () => {
                     href={`${FreshEyesAuditSchedulingLink}?source=${title}`}
                     size="sm"
                   >
-                    Schedule free call
+                    Drop me an email
                   </Button>
                   <Decoration className="absolute bottom-8 right-8 opacity-90" />
                 </div>

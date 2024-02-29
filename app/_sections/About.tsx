@@ -22,8 +22,8 @@ export const AboutSection = () => {
             
           </p>
           <div className="mt-10 flex flex-col gap-4 sm:flex-row">
-            <Label color="gray">3+ years of building web apps</Label>
-            <Label color="gray">Currently working Full-time on multiple products at MVPRockets </Label>
+            <Label color="gray">3+ years of experience </Label>
+            <Label color="gray">Full-time at MVPRockets </Label>
           </div>
         </div>
         <div className="max-w-[580px] flex-shrink-0 rounded-md">

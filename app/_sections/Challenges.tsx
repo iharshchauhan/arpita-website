@@ -39,7 +39,7 @@ const challenges = [
   {
     Icon: SpeedingClock,
     title:
-      "I bring a holistic view to product design, combining insights from various fields to create innovative solutions that meet users&apos;s needs in unique and impactful ways.",
+      'I bring a holistic view to product design, combining insights from various fields to create innovative solutions that meet users&apos;s needs in unique and impactful ways.',
   },
   {
     Icon: Cycle,
@@ -49,7 +49,7 @@ const challenges = [
   {
     Icon: ShakeHands,
     title:
-      "With the support of established partners like Y Combinator and Livespace, my work has a seal of approval from some of the industry&apos;s best, showcasing my ability to deliver at the highest level.",
+      'With the support of established partners like Y Combinator and Livespace, my work has a seal of approval from some of the industry&apos;s best, showcasing my ability to deliver at the highest level.',
   },
   {
     Icon: PuzzlePiece,

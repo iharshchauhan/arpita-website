@@ -80,8 +80,9 @@ const services = [
   {
     title: 'Full-time Product Designer',
     benefits: [
-      'I channel my product design expertise into actionable solutions, tapping into user feedback to refine experiences and manage seamless delivery ensuring that no idea remains unexecuted, regardless of backlog complexity.',
-      'Bringing a multidisciplinary approach, I leverage my diverse skill set to collaborate with cross-functional teams, efficiently turning abstract concepts into engaging, user-centric designs that resonate with users and enhance product integrity.',
+      'I Architect User-Centric Solutions: From listening to user feedback to developing strategic solutions and managing their implementation, I ensure enhanced product value.',
+      'I Innovate Through Research: Utilizing comprehensive research to deeply understand user needs, I quickly prototype ideas for real-world testing and iterative refinement.',
+      'I Drive Continuous Improvement: As a passionate problem solver, I continuously seek to learn and stay ahead of industry trends, delivering solutions that exceed expectations and cultivate a culture of innovation.',
     ],
     Decoration: Pointer,
   },

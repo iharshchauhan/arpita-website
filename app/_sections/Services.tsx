@@ -92,7 +92,6 @@ const services = [
       'Committed to refining user experiences through meticulous research and design.',
       'Agile in approach, ensuring swift delivery and impactful user experiences.',
       'Championing user-centered design in every facet of product development.',
-      'Adept at navigating cross-disciplinary team dynamics to foster innovation.',
     ],
     Decoration: CodeBrackets,
   },

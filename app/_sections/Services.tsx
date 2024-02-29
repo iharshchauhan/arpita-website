@@ -80,18 +80,12 @@ const services = [
   {
     title: 'Full-time Product Designer',
     benefits: [
-      'Architect User-Centric Solutions: From listening to user feedback to developing strategic solutions and managing their implementation, I ensure enhanced product value.',
-      'Drive Continuous Improvement: As a passionate problem solver, I continuously seek to learn and stay ahead of industry trends, delivering solutions that exceed expectations and cultivate a culture of innovation.',
     ],
     Decoration: Pointer,
   },
     {
     title: 'Part-time Product Designer',
     benefits: [
-      'Design and Implement Features: Based on your existing strategy.',
-      'Refine User Experiences: Through meticulous research and design.',
-      'Agile Approach: Ensuring swift delivery and impactful user experiences.',
-      'From initial ideation to final implementation, I ensure that the user&apos;s needs, preferences, and experiences remain at the forefront.',
     ],
     Decoration: CodeBrackets,
   },

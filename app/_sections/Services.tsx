@@ -86,7 +86,7 @@ const services = [
     Decoration: Pointer,
   },
     {
-    title: 'Freelance Designer',
+    title: 'Part-time Product Designer',
     benefits: [
       'I design and implement features based on your existing strategy.',
       'Committed to refining user experiences through meticulous research and design.',

@@ -20,7 +20,7 @@ export const AudienceSection = () => {
                   key={title}
                   onClick={() => setActive(i)}
                   className={clsx(
-                    'flex gap-4 font-accent text-2xl font-medium md:text-3xl lg:text-4xl', // Adjusted font sizes here
+                    'flex gap-4 font-accent text-3xl font-medium md:text-4xl lg:text-5xl',
                     active === i
                       ? 'text-violet'
                       : 'opacity-50 transition-all hover:opacity-75 dark:opacity-60 dark:hover:opacity-80'
@@ -69,20 +69,6 @@ const audiences = [
   },
   {
     title: 'Deloitte',
-    subtitle:
-      'VIOM is a B2C Distribution Management System designed to streamline and automate the supply chain process for small to medium business owners.',
-    description:
-      "The redesigned VIOM platform offers an intuitive, user-friendly interface for managing supply chain processes. It enables business owners to efficiently oversee orders, track deliveries, and streamline payments. The implementation of vernacular language support, offline capabilities, and a robust design system ensures scalability and usability.",
-  },
-  {
-    title: 'Study Kapital',
-    subtitle:
-      'VIOM is a B2C Distribution Management System designed to streamline and automate the supply chain process for small to medium business owners.',
-    description:
-      "The redesigned VIOM platform offers an intuitive, user-friendly interface for managing supply chain processes. It enables business owners to efficiently oversee orders, track deliveries, and streamline payments. The implementation of vernacular language support, offline capabilities, and a robust design system ensures scalability and usability.",
-  },
-  {
-    title: 'DRL',
     subtitle:
       'VIOM is a B2C Distribution Management System designed to streamline and automate the supply chain process for small to medium business owners.',
     description:

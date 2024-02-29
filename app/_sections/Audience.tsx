@@ -20,7 +20,7 @@ export const AudienceSection = () => {
                   key={title}
                   onClick={() => setActive(i)}
                   className={clsx(
-                    'flex gap-4 font-accent text-3xl font-medium md:text-4xl lg:text-5xl',
+                    'flex gap-4 font-accent text-2xl font-medium md:text-3xl lg:text-4xl', // Adjusted font sizes here
                     active === i
                       ? 'text-violet'
                       : 'opacity-50 transition-all hover:opacity-75 dark:opacity-60 dark:hover:opacity-80'

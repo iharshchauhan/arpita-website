@@ -13,7 +13,8 @@ export const MethodSection = () => {
           Each project is unique. However, a recipe for a successful
           collaboration often looks like this.
         </h3>
-        <h3 className="max-w-2xl font-accent text-2xl font-medium md:text-3xl">
+        {/* Updated H3 element with mt-32 for 8rem top margin */}
+        <h3 className="mt-32 max-w-2xl font-accent text-2xl font-medium md:text-3xl">
           Each project is unique. However, a recipe for a successful
           collaboration often looks like this.
         </h3>

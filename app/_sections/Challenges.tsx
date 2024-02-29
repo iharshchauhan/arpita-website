@@ -39,7 +39,7 @@ const challenges = [
   {
     Icon: SpeedingClock,
     title:
-      "I bring a holistic view to product design, combining insights from various fields to create innovative solutions that meet users&apos; needs in unique and impactful ways.",
+      "I bring a holistic view to product design, combining insights from various fields to create innovative solutions that meet users&apos;s needs in unique and impactful ways.",
   },
   {
     Icon: Cycle,

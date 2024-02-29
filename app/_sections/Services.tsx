@@ -81,7 +81,6 @@ const services = [
     title: 'Full-time Product Designer',
     benefits: [
       'I Architect User-Centric Solutions: From listening to user feedback to developing strategic solutions and managing their implementation, I ensure enhanced product value.',
-      'I Innovate Through Research: Utilizing comprehensive research to deeply understand user needs, I quickly prototype ideas for real-world testing and iterative refinement.',
       'I Drive Continuous Improvement: As a passionate problem solver, I continuously seek to learn and stay ahead of industry trends, delivering solutions that exceed expectations and cultivate a culture of innovation.',
     ],
     Decoration: Pointer,

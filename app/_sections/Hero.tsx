@@ -11,7 +11,7 @@ export const HeroSection = () => {
     <div className="px-container relative mx-auto mb-20 mt-8 max-w-container">
       <Hero
         title={HeroTitle}
-        description="As a Data-driven Designer with a natural flair for creating human-centric solutions, my expertise is deeply rooted in crafting meaningful and impactful user experiences. This proficiency emerges from a passion-driven journey of acquiring knowledge in cognitive psychology and its applications to design, ensuring that every creation resonates with the intended audience on a profound level."
+        description="Driven by a keen interest in design that resonates with users, I apply insights from psychology to forge designs that not only engage but also deliver exceptional experiences."
         actions={HeroActions}
       />
       <ThemeToggle className="absolute -bottom-10 left-0 md:bottom-0" />

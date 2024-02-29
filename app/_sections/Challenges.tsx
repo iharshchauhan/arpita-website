@@ -13,12 +13,12 @@ export const ChallengesSection = () => {
     <div className="relative mb-16 md:mb-32">
       <div className="px-container mx-auto max-w-container">
         <h2 className="mb-5 mt-4 text-center font-accent text-4xl font-medium md:text-5xl">
-          When companies try to stay lean and fast, pure technical acumen isn’t
-          enough.
+         Why Embracing My Vision Elevates Your Product's Soul
         </h2>
         <p className="mb-10 mt-5 text-center text-xl sm:mb-20 md:text-2xl">
-          You can’t afford developers who need well-defined specs and
-          pixel-perfect mockups.
+          Delve into the philosophy of design through my eyes, where each creation is not just built, but meticulously crafted with soulful purpose. 
+          In choosing to work with me, you're not just hiring a designer; you're embracing a unique vision that intertwines empathy with innovation, 
+          ensuring your product not only meets functional needs but also speaks to the heart of the user experience.
         </p>
         <div className="grid grid-cols-1 justify-items-center gap-x-10 gap-y-10 sm:grid-cols-2 sm:gap-x-16 sm:gap-y-16 lg:grid-cols-3">
           {challenges.map(challenge => {

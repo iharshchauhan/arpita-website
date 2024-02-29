@@ -9,6 +9,10 @@ export const MethodSection = () => {
   return (
     <div className="relative -mt-16 mb-12 sm:-mt-32 md:mb-24">
       <div className="px-container mx-auto max-w-container">
+        <h3 className="max-w-2xl font-accent text-2xl font-medium md:text-3xl hidden">
+          Each project is unique. However, a recipe for a successful
+          collaboration often looks like this.
+        </h3>
         <h3 className="max-w-2xl font-accent text-2xl font-medium md:text-3xl">
           Each project is unique. However, a recipe for a successful
           collaboration often looks like this.

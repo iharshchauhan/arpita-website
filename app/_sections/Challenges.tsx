@@ -18,7 +18,7 @@ export const ChallengesSection = () => {
         <p className="mb-10 mt-5 text-center text-xl sm:mb-20 md:text-2xl">
           Delve into the philosophy of design through my eyes, where each creation is not just built, but meticulously crafted with soulful purpose. 
           In choosing to work with me, you're not just hiring a designer; you're embracing a unique vision that intertwines empathy with innovation, 
-          ensuring your product not only meets functional needs but also speaks to the heart of the user experience.
+          ensuring your product meets functional needs and speaks to the heart of the user experience.
         </p>
         <div className="grid grid-cols-1 justify-items-center gap-x-10 gap-y-10 sm:grid-cols-2 sm:gap-x-16 sm:gap-y-16 lg:grid-cols-3">
           {challenges.map(challenge => {
@@ -41,30 +41,30 @@ const challenges = [
   {
     Icon: SpeedingClock,
     title:
-      'You want to spend more time on strategic topics, less on tightly managing engineers?',
+      "Multidisciplinary Approach: I bring a holistic view to product design, combining insights from various fields to create innovative solutions that meet users' needs in unique and impactful ways.",
   },
   {
     Icon: Cycle,
     title:
-      'You want to accelerate the iteration velocity of your engineering team?',
+      'Expertise in User-Centered Design: My deep understanding of user behavior ensures that I design solutions that are not just aesthetically pleasing but also incredibly intuitive and satisfying for users.',
   },
   {
     Icon: ShakeHands,
     title:
-      'You need a product manager to spare ideas, yet don’t have the budget?',
+      "Proven Experience with Top-Tier Backers: With the support of established partners like Y Combinator and Livespace, my work has a seal of approval from some of the industry's best, showcasing my ability to deliver at the highest level.",
   },
   {
     Icon: PuzzlePiece,
     title:
-      'You seek a silver bullet that listens to feedback, develops ideas, and ships them?',
+      'Advanced Tool Proficiency: From design (Adobe Illustrator, Figma, Miro) to research (Notion, Airtable, Hotjar) and prototyping (Framer, Protopie, Webflow), my skill set covers the full spectrum of product development.',
   },
   {
     Icon: Money,
-    title: 'You want to avoid wasting money by shipping features nobody needs?',
+    title: 'Design System Expert: With my skillful use of Webflow to establish comprehensive design systems, I ensure consistency and scalability that contribute to a cohesive user experience across all product stages.',
   },
   {
     Icon: Growth,
     title:
-      'You need an engineer who proactively pushes the UX to the next level?',
+      'Agile Project Leadership: I’m adept at leading cross-functional teams with agility using tools like Jira and Microsoft Clarity, ensuring swift and effective execution of project milestones.',
   },
 ];

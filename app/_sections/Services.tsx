@@ -91,7 +91,7 @@ const services = [
       'Design and Implement Features: Based on your existing strategy.',
       'Refine User Experiences: Through meticulous research and design.',
       'Agile Approach: Ensuring swift delivery and impactful user experiences.',
-      'From initial ideation to final implementation, I ensure that the user’s needs, preferences, and experiences remain at the forefront.',
+      'From initial ideation to final implementation, I ensure that the user&apos;s needs, preferences, and experiences remain at the forefront.',
     ],
     Decoration: CodeBrackets,
   },

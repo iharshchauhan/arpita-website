@@ -12,11 +12,15 @@ export const ServicesSection = () => {
       <div className="px-container mx-auto max-w-container">
         <div className="mx-auto max-w-4xl text-center md:mb-12">
           <h2 className="font-accent text-4xl font-medium md:text-5xl">
-            Combining product and development.
+            Combining product and design.
           </h2>
           <p className="mx-auto mt-5 max-w-3xl text-xl md:text-2xl">
-            I support you right where your challenges are – or might be in the
-            future. Seamlessly switching between discovery and delivery.
+            Delve into the philosophy of design through my eyes, where each creation is not just built, 
+            but meticulously crafted with soulful purpose. 
+            In choosing to work with me, you're not just hiring a designer; 
+            you're embracing a unique vision that intertwines empathy with innovation, 
+            ensuring your product not only meets functional needs but also speaks to the heart of 
+            the user experience.
           </p>
         </div>
         <div className="my-12 flex items-center justify-center">
@@ -74,18 +78,18 @@ export const ServicesSection = () => {
 
 const services = [
   {
-    title: 'product manager',
+    title: 'Full-time Product Designer',
     benefits: [
-      'I listen to user feedback, develop solutions, and manage the delivery.',
-      'Worried about a bloated backlog? Whenever needed, I can directly execute on ideas we developed.',
+      'I channel my product design expertise into actionable solutions, tapping into user feedback to refine experiences and manage seamless delivery ensuring that no idea remains unexecuted, regardless of backlog complexity.',
+      'Bringing a multidisciplinary approach, I leverage my diverse skill set to collaborate with cross-functional teams, efficiently turning abstract concepts into engaging, user-centric designs that resonate with users and enhance product integrity.',
     ],
     Decoration: Pointer,
   },
   {
-    title: 'web developer',
+    title: 'Freelance Designer',
     benefits: [
       'I design and implement features based on your existing strategy.',
-      'Lacking detailed mockups and specs? No worries, these are exciting puzzles to deal with.',
+      'Committed to refining user experiences through meticulous research and design.',
     ],
     Decoration: CodeBrackets,
   },
@@ -99,12 +103,12 @@ const coreBenefits = [
   },
   {
     title: 'You ship what matters.',
-    description: 'Without agonizing over code details.',
+    description: 'Without agonizing over design details.',
     Icon: Growth,
   },
   {
     title: 'You spend more time on strategy.',
-    description: 'Less on tightly managing engineers.',
+    description: 'Less on tightly managing me.',
     Icon: SpeedingClock,
   },
 ];

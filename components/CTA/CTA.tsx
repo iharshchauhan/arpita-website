@@ -36,7 +36,7 @@ type CTAProps = CTAVariants & {
 
 export const CTA: FC<CTAProps> = ({
   title = "Empower Your Product's Journey",
-  description = 'Let's collaborate to enhance your product's design and user experience. Reach out for a detailed discussion on how we can turn innovative ideas into impactful realities together.',
+  description = "Let's collaborate to enhance your product's design and user experience. Reach out for a detailed discussion on how we can turn innovative ideas into impactful realities together.",
   buttonText = 'Reach Out to Collaborate',
   buttonLink = FreshEyesAuditSchedulingLink,
   buttonAdornment = <DefaultButtonAdornment />,

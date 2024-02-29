@@ -47,17 +47,45 @@ export const AudienceSection = () => {
 
 const audiences = [
   {
-    title: 'Startups',
+    title: 'BimaPlan',
     subtitle:
-      'You see a market opportunity. Now you are in the midst of building the product and staffing a team?',
+      "BimaPlan is an innovative insurance product that aims to increase the penetration of insurance in underserved markets.",
     description:
-      'In the early days, shipping fast and collecting feedback is key. I help you in executing your vision – without any managerial hassle.',
+      "BimaPlan's journey showcased the transformative potential of a comprehensive, research-driven design approach. The platform's success in enhancing insurance accessibility, empowering agents, and fostering a sense of achievement serves as a testament to the efficacy of a methodical and user-centered design process.",
   },
   {
-    title: 'Scale-ups',
+    title: 'Viom',
     subtitle:
-      'You already validated your core product. Now it is time to listen for user feedback and scale?',
+      'VIOM is a B2C Distribution Management System designed to streamline and automate the supply chain process for small to medium business owners.',
     description:
-      'The more mature your product gets, the more important becomes product discovery. I help you in shipping the right features, built with attention to detail.',
+      "The redesigned VIOM platform offers an intuitive, user-friendly interface for managing supply chain processes. It enables business owners to efficiently oversee orders, track deliveries, and streamline payments. The implementation of vernacular language support, offline capabilities, and a robust design system ensures scalability and usability.",
+  },
+  {
+    title: 'NirogStreet',
+    subtitle:
+      'NirogStreet, a proactive healthcare platform, recognized the increasing demand for holistic healing methods such as Ayurveda.',
+    description:
+      "Through a design-driven approach, NirogStreet aimed to revolutionize the Ayurveda industry by creating a holistic healing platform. By focusing on user experience, knowledge sharing, and seamless e-commerce integration, they sought to empower Ayurveda doctors and practitioners, promote health and wellness, and enhance the accessibility and authenticity of Ayurvedic medicines.",
+  },
+  {
+    title: 'Deloitte',
+    subtitle:
+      'VIOM is a B2C Distribution Management System designed to streamline and automate the supply chain process for small to medium business owners.',
+    description:
+      "The redesigned VIOM platform offers an intuitive, user-friendly interface for managing supply chain processes. It enables business owners to efficiently oversee orders, track deliveries, and streamline payments. The implementation of vernacular language support, offline capabilities, and a robust design system ensures scalability and usability.",
+  },
+  {
+    title: 'Study Kapital',
+    subtitle:
+      'VIOM is a B2C Distribution Management System designed to streamline and automate the supply chain process for small to medium business owners.',
+    description:
+      "The redesigned VIOM platform offers an intuitive, user-friendly interface for managing supply chain processes. It enables business owners to efficiently oversee orders, track deliveries, and streamline payments. The implementation of vernacular language support, offline capabilities, and a robust design system ensures scalability and usability.",
+  },
+  {
+    title: 'DRL',
+    subtitle:
+      'VIOM is a B2C Distribution Management System designed to streamline and automate the supply chain process for small to medium business owners.',
+    description:
+      "The redesigned VIOM platform offers an intuitive, user-friendly interface for managing supply chain processes. It enables business owners to efficiently oversee orders, track deliveries, and streamline payments. The implementation of vernacular language support, offline capabilities, and a robust design system ensures scalability and usability.",
   },
 ];

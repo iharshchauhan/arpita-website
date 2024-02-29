@@ -10,13 +10,11 @@ export const MethodSection = () => {
     <div className="relative -mt-16 mb-12 sm:-mt-32 md:mb-24">
       <div className="px-container mx-auto max-w-container">
         <h3 className="max-w-2xl font-accent text-2xl font-medium md:text-3xl hidden">
-          Each project is unique. However, a recipe for a successful
-          collaboration often looks like this.
+
         </h3>
         {/* Updated H3 element with mt-32 for 8rem top margin */}
         <h3 className="mt-32 max-w-2xl font-accent text-2xl font-medium md:text-3xl">
-          Each project is unique. However, a recipe for a successful
-          collaboration often looks like this.
+
         </h3>
         <div className="flex flex-col gap-6 sm:flex-row md:gap-12">
           {steps.map(({ Illustration, description }, i) => {
@@ -38,23 +36,5 @@ export const MethodSection = () => {
 
 const steps = [
   {
-    Illustration: ProjectStep1,
-    description:
-      'Together, we identify major opportunities for your product. Aligned with your vision.',
-  },
-  {
-    Illustration: ProjectStep2,
-    description:
-      "We spare ideas to turn your product's pains into beloved features. By you and your users.",
-  },
-  {
-    Illustration: ProjectStep3,
-    description:
-      'Once committed, I start coding. Following best practices and bullet-proven patterns.',
-  },
-  {
-    Illustration: ProjectStep4,
-    description:
-      'We gather actionable user feedback and keep improving the product each day.',
-  },
+
 ];

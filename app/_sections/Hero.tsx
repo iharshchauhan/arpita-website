@@ -38,7 +38,7 @@ const HeroActions = (
       </span>
       <span className="flex items-center gap-1">
         <CheckCircle size={18} />
-        Get product feedback
+        Get design feedback on your product
       </span>
     </div>
   </div>

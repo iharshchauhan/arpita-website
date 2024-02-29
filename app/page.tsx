@@ -18,8 +18,11 @@ const Home = () => {
       <ServicesSection />
       <CTASection id="cta-services" variant="mint" />
       <ReviewsSection />
-      <AudienceSection />
       <MethodSection />
+      {/* Added mt-40 to AudienceSection for a 10rem gap */}
+      <div className="mt-40">
+        <AudienceSection />
+      </div>
       <CTASection id="cta-method" variant="sun" />
     </main>
   );
